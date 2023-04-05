@@ -43,8 +43,13 @@ The data comes from the Government of Canada's open data website.
 Help your colleague gain insights on the type of vehicles that have lower CO2 emissions. Include:
 
 What is the median engine size in liters?
+
 What is the average fuel consumption for regular gasoline (Fuel Type = X), premium gasoline (Z), ethanol (E), and diesel (D)?
+
 What is the correlation between fuel consumption and CO2 emissions?
+
 Which vehicle class has lower average CO2 emissions, 'SUV - SMALL' or 'MID-SIZE'?
+
 What are the average CO2 emissions for all vehicles? For vehicles with an engine size of 2.0 liters or smaller?
+
 Any other insights you found during your analysis?
