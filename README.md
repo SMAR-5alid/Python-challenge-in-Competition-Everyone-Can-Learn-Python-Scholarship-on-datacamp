@@ -1,15 +1,15 @@
-# Python-challenge-in-Competition-Everyone-Can-Learn-Python-Scholarship-on-datacamp
+# 1️⃣ Python 🐍 - CO2 Emissions
 
-1️⃣ Python 🐍 - CO2 Emissions
 Now let's now move on to the competition and challenge.
 
-📖 Background
+#📖 Background
 You volunteer for a public policy advocacy organization in Canada, and your colleague asked you to help her draft recommendations for guidelines on CO2 emissions rules.
 
 After researching emissions data for a wide range of Canadian vehicles, she would like you to investigate which vehicles produce lower emissions.
 
 
-💾 The data I
+#💾 The data I
+
 You have access to seven years of CO2 emissions data for Canadian vehicles (source):
 "Make" - The company that manufactures the vehicle.
 "Model" - The vehicle's model.
@@ -24,7 +24,7 @@ The data comes from the Government of Canada's open data website.
 
 
 
-💪 Challenge I
+#💪 Challenge I
 Help your colleague gain insights on the type of vehicles that have lower CO2 emissions. Include:
 
 What is the median engine size in liters?
